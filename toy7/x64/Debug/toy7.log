@@ -1,0 +1,9 @@
+﻿  toy7Dlg.cpp
+c:\users\3dons6\documents\visual studio 2015\projects\toy7\toy7\toy7dlg.cpp(199): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\3dons6\documents\visual studio 2015\projects\toy7\toy7\toy7dlg.cpp(207): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\3dons6\documents\visual studio 2015\projects\toy7\toy7\toy7dlg.cpp(208): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\3dons6\documents\visual studio 2015\projects\toy7\toy7\toy7dlg.cpp(209): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  toy7.cpp
+  코드를 생성하고 있습니다...
+  toy7.vcxproj -> C:\Users\3DONS6\documents\visual studio 2015\Projects\toy7\x64\Debug\toy7.exe
+  toy7.vcxproj -> C:\Users\3DONS6\documents\visual studio 2015\Projects\toy7\x64\Debug\toy7.pdb (Partial PDB)
